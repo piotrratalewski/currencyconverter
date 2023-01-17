@@ -1,6 +1,6 @@
 html {
 	box-sizing: border-box;
-	background-image: url("..\image\monty.jpg");
+	background-image: url("..\img\monty.jpg");
 	resize: both;
 	overflow: auto;
 }
